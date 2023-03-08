@@ -1,0 +1,34 @@
+[
+    {
+        "id" : 1,
+        "name" : "Beds",
+        "picture" : {
+            "src" : "images/beds.jpg",
+            "alt" : "Bed"
+        } 
+    },
+    {
+        "id" : 2,
+        "name" : "Chairs",
+        "picture" : {
+            "src" : "images/chairs.jpg",
+            "alt" : "Chair"
+        } 
+    },
+    {
+        "id" : 3,
+        "name" : "Tables",
+        "picture" : {
+            "src" : "images/tables.jpg",
+            "alt" : "Table"
+        } 
+    },
+    {
+        "id" : 4,
+        "name" : "Sofas"
+    },
+    {
+        "id" : 5,
+        "name" : "Accessories"
+    }
+]

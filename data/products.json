@@ -1,0 +1,179 @@
+[
+    {
+        "id" : 1,
+        "picture" : 
+        {
+            "src" : "images/product1.png",
+            "alt" : "Product 1"
+        },
+        "price" :
+        {
+            "currentPrice" : "679.89",
+            "oldPrice" : "769.89"
+        },
+        "desc" : "Queen Size Bed With Storage",
+        "brandId" : 1,
+        "brand" : "RICCARDA",
+        "category" : 1,
+        "inCart" : 0
+    },
+    {
+        "id" : 2,
+        "picture" : 
+        {
+            "src" : "images/product2.png",
+            "alt" : "Product 2"
+        },
+        "price" :
+        {
+            "currentPrice" : "690.99",
+            "oldPrice" : "800.99"
+        },
+        "desc" : "Queen Size Bed",
+        "brandId" : 2,
+        "brand" : "KARLSTAD",
+        "category" : 1,
+        "inCart" : 0
+    },
+    {
+        "id" : 3,
+        "picture" : 
+        {
+            "src" : "images/product3.png",
+            "alt" : "Product 3"
+        },
+        "price" :
+        {
+            "currentPrice" : "50.89"
+        },
+        "desc" : "Wooden Chair",
+        "brandId" : 3,
+        "brand" : "JANE LAUREN",
+        "category" : 2,
+        "inCart" : 0
+    },
+    {
+        "id" : 4,
+        "picture" : 
+        {
+            "src" : "images/product4.png",
+            "alt" : "Product 4"
+        },
+        "price" :
+        {
+            "currentPrice" : "300.99"
+        },
+        "desc" : "Standard Sofa",
+        "brandId" : 4,
+        "brand" : "CHESTERFIELD",
+        "category" : 4,
+        "inCart" : 0
+    },
+    {
+        "id" : 5,
+        "picture" : 
+        {
+            "src" : "images/product5.png",
+            "alt" : "Product 5"
+        },
+        "price" :
+        {
+            "currentPrice" : "100.89",
+            "oldPrice" : "120.89"
+        },
+        "desc" : "Standard Chair",
+        "brandId" : 3,
+        "brand" : "JANE LAUREN",
+        "category" : 2,
+        "inCart" : 0
+    },
+    {
+        "id" : 6,
+        "picture" : 
+        {
+            "src" : "images/product6.png",
+            "alt" : "Product 6"
+        },
+        "price" :
+        {
+            "currentPrice" : "200.89",
+            "oldPrice" : "250.89"
+        },
+        "desc" : "Modern Chair",
+        "brandId" : 3,
+        "brand" : "JANE LAUREN",
+        "category" : 2,
+        "inCart" : 0
+    },
+    {
+        "id" : 7,
+        "picture" : 
+        {
+            "src" : "images/product7.png",
+            "alt" : "Product 7"
+        },
+        "price" :
+        {
+            "currentPrice" : "276.89",
+            "oldPrice" : "290.89"
+        },
+        "desc" : "Wooden table",
+        "brandId" : 5,
+        "brand" : "Adams tables",
+        "category" : 3,
+        "inCart" : 0
+    },
+    {
+        "id" : 8,
+        "picture" : 
+        {
+            "src" : "images/product8.png",
+            "alt" : "Product 8"
+        },
+        "price" :
+        {
+            "currentPrice" : "349.89",
+            "oldPrice" : "370.89"
+        },
+        "desc" : "Lightweight Down Puffer Coat",
+        "brandId" : 6,
+        "brand" : "CASTLERY",
+        "category" : 3,
+        "inCart" : 0
+    },
+    {
+        "id" : 9,
+        "picture" : 
+        {
+            "src" : "images/product9.png",
+            "alt" : "Product 9"
+        },
+        "price" :
+        {
+            "currentPrice" : "650.99"
+        },
+        "desc" : "Modern Sofa",
+        "brandId" : 7,
+        "brand" : "DASA FURNITURE",
+        "category" : 4,
+        "inCart" : 0
+    },
+    {
+        "id" : 10,
+        "picture" : 
+        {
+            "src" : "images/product10.png",
+            "alt" : "Product 10"
+        },
+        "price" :
+        {
+            "currentPrice" : "209.89",
+            "oldPrice" : "250.89"
+        },
+        "desc" : "Lightweight Modern Lamp",
+        "brandId" : 7,
+        "brand" : "DASA FURNITURE",
+        "category" : 5,
+        "inCart" : 0
+    }
+]

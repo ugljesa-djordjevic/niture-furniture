@@ -1,0 +1,20 @@
+***THINGS TO DO***
+
+*index.html*
+
+-favorites page(local storage)
+-add event to categories so that they lead to product page with filtered items that contains that category(for web2)
+-add some animations on scrolling(for web2)
+
+*product.html*
+
+-on click it shows only that product and its description(for php1* and php2)
+
+*** PHP ***
+
+-Modifikacija HTTP response
+-Regularni izrazi
+.
+.
+.
+.

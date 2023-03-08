@@ -1,0 +1,30 @@
+[
+    {
+        "id" : 1,
+        "brand" : "Riccarda"
+    },
+    {
+        "id" : 2,
+        "brand" : "Karlstad"
+    },
+    {
+        "id" : 3,
+        "brand" : "Jane Lauren"
+    },
+    {
+        "id" : 4,
+        "brand" : "Chesterfield"
+    },
+    {
+        "id" : 5,
+        "brand" : "Adams tables"
+    },
+    {
+        "id" : 6,
+        "brand" : "Castlery"
+    },
+    {
+        "id" : 7,
+        "brand" : "Dasa furniture"
+    }
+]
