@@ -12,7 +12,7 @@ window.onload = () => {
 		for(let i = 0; i < carts.length; i++) {
 			carts[i].addEventListener('click', () => {
 				$.ajax({
-					url: "data/products.json",
+					url: "./data/products.json",
 					method: "GET",
 					dataType: "json",
 					success: function(products){

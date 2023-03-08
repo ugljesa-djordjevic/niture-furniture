@@ -183,7 +183,7 @@ $(function () {
 
 	function callAjax(file, callback){
 			$.ajax({
-				url: "data/" + file + ".json",
+				url: "./data/" + file + ".json",
 				method: "GET",
 				dataType: "json",
 				success: function(data){
